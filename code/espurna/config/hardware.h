@@ -1487,7 +1487,7 @@
     #define BUTTON2_RELAY       2
 
     // Relays
-    #define RELAY1_PIN          2
+    #define RELAY1_PIN          5
     #define RELAY2_PIN          14
 
     #define RELAY1_TYPE         RELAY_TYPE_INVERSE
